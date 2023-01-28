@@ -1,0 +1,33 @@
+{
+    "name": "all-ears-bunny-cafe",
+    "version": "1.0.0",
+    "description": "A e-commerce website for All Ears Bunny Cafe.",
+    "main": "server/server.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node server/server.js",
+      "develop": "concurrently \"cd server && npm run watch\" \"cd client && npm start\"",
+      "install": "cd server && npm i && cd ../client && npm i",
+      "build": "cd client && npm run build",
+      "seed": "node ./server/seed/seed.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/lalalaviv/All-Ears-Bunny-Cafe.git"
+    },
+    "keywords": [
+      "e-commerce",
+      "cafe",
+      "website"
+    ],
+    "author": "Vivian Lee",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/lalalaviv/All-Ears-Bunny-Cafe/issues"
+    },
+    "homepage": "",
+    "devDependencies": {
+      "concurrently": "^7.2.1",
+      "css-loader": "^6.7.1"
+    }
+  }
