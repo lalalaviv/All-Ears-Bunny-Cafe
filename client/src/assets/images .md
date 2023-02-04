@@ -38,9 +38,10 @@ Shopping
 
 <img width="743" alt="paint" src="https://user-images.githubusercontent.com/106384519/216765987-12ab1707-81a1-49db-bd1d-79eefeecdf11.png">
 <img width="524" alt="comforter" src="https://user-images.githubusercontent.com/106384519/216765994-3dca0a80-b64d-47c2-8240-fa40212377ca.png">
+<img width="226" alt="necklace" src="https://user-images.githubusercontent.com/106384519/216769468-101e28fd-8826-4840-89c1-0e44b5644ff8.png">
 
 <img width="579" alt="earring" src="https://user-images.githubusercontent.com/106384519/216766004-905b1a00-1096-4e4d-999a-a1c7b903a458.png">
-<img width="241" alt="necklace" src="https://user-images.githubusercontent.com/106384519/216766008-f980208f-50b5-418f-b9bf-b60e9db31c53.png">
+<
 <img width="461" alt="candle holder" src="https://user-images.githubusercontent.com/106384519/216766021-e0a2ab8f-c0bd-471c-8b10-a4d2283d044c.png">
 <img width="477" alt="mug" src="https://user-images.githubusercontent.com/106384519/216766034-a74447d6-2017-4124-ba4c-77148897936b.png">
 <img width="999" alt="tea towel" src="https://user-images.githubusercontent.com/106384519/216766042-1496d223-ae48-4a34-ba47-457ee155f584.png">
@@ -48,6 +49,7 @@ Shopping
 <img width="359" alt="chocolate" src="https://user-images.githubusercontent.com/106384519/216766049-ab24e955-bc8d-4f60-8f27-5ac36429169e.png">
 
 
+![heart-bunny](https://user-images.githubusercontent.com/106384519/216769512-13b5073b-acbe-4f53-a9bd-929f6c522621.gif)
 
 
 
