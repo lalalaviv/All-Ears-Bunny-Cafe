@@ -1,0 +1,122 @@
+[
+    {
+      "id": 1,
+      "img": "",
+      "name":"Little dreamers bunny night light",
+      "description": "A soft and safe night light for children and babies. Made of edible grade soft silicone, no odor or sharp edges, safe and non toxic for mom to use with more peace of mind, this nightlight will help your child or baby get a good night's sleep all night long and that means mom and dad get a good night's sleep too.",
+      "price": "27.99",
+      "count": 0,
+      "counterVal": 1,
+      "inCart": false
+    },
+    {
+      "id": 2,
+      "img": "",
+      "name":"Space bunny nightstand",
+      "description": "This Nightstand is more than just a place to put your phone, keys, and glasses. It's a fun and whimsical piece of art that will be the highlight of any room. ",
+      "price": "395.00",
+      "count": 0,
+      "counterVal": 1,
+      "inCart": false
+    },
+    {
+      "id": 3,
+      "img": "",
+      "name":"Bunny plush toy",
+      "description": "A bunny of the highest quality and very soft to cuddle, great for babies and children and will make a great baby shower gift.",
+      "price": "59.95",
+      "count": 0,
+      "counterVal": 1,
+      "inCart": false
+    },
+    {
+      
+      "img": "",
+      "name":"Bunny slippers",
+      "description": "These cute slippers will keep your feet cosy and comfortable. They are an adorable addition to your wardrobe.",
+      "price": "39.00",
+      "count": 0,
+      "counterVal": 1,
+      "inCart": false
+    },
+    {
+      "id": 5,
+      "img": "",
+      "name":"Bunny prints (Set of 2)",
+      "description": "Lovely bunny paintings to decorate the room with cuteness.",
+      "price": "65.00",
+      "count": 0,
+      "counterVal": 1,
+      "inCart": false
+    },
+    {
+      "id": 6,
+      "img": "",
+      "name":"Cotton Bunny comforter",
+      "description": "A cute bunny shaped comforter made with soft and breathable muslin cotton. Perfect to keep your little one calm, cozy and comfortable.",
+      "price": "29.95",
+      "count": 0,
+      "counterVal": 1,
+      "inCart": false
+    },
+    {
+      "id": 7,
+      "img": "",
+      "name":"Bunny hoop earring",
+      "description": "Designed with rabbits which adds cuteness to this elegant pair of earrings. Wearing them will add a touch of personality to any outfit.",
+      "price": "79.95",
+      "count": 0,
+      "counterVal": 1,
+      "inCart": false
+    },
+    {
+      "id": 8,
+      "img": "",
+      "name":"Gold plated bunny necklace",
+      "description": "This beautiful 18ct gold plated sterling silver bunny charm necklace is on trend and very stylish for this rabbit year.",
+      "price": "119.00",
+      "count": 0,
+      "counterVal": 1,
+      "inCart": false
+    },
+    {
+      "id": 9,
+      "img": "",
+      "name":"Bunny candle holder",
+      "description": "A pastel green bunny candle holder that comes with a candle.",
+      "price": "8.95",
+      "count": 0,
+      "counterVal": 1,
+      "inCart": false
+    },
+    {
+      "id": 10,
+      "img": "",
+      "name":"Bunny print mug",
+      "description": "Bunny heart hug mug with a rounded shape making gripping easier.",
+      "price": "12.99",
+      "count": 0,
+      "counterVal": 1,
+      "inCart": false
+    },
+    {
+      "id": 11,
+      "img": "",
+      "name":"Bunny tea towel",
+      "description": "For the bunny lovers who also would like to decorate their kitchen, these eco-friendly towels will spruce up any kitchen.",
+      "price": "27.00",
+      "count": 0,
+      "counterVal": 1,
+      "inCart": false
+    },
+    {
+      "id": 12,
+      "img": "",
+      "name":"Bunny chocolate",
+      "description": "The chocolate comes in white chocolate, milk chocolate, dark chocolate or combination if preferred.",
+      "price": "16.00",
+      "count": 0,
+      "counterVal": 1,
+      "inCart": false
+    }
+    ]

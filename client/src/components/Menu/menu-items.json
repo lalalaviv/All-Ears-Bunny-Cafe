@@ -1,0 +1,73 @@
+[
+    {
+        "id": "1",
+        "name": "Expresso",
+        "description": "Arabica coffee beans. Strong black coffee made by forcing steam through ground coffee beans.",
+        "price": "4.50",
+        "image": ""
+    },
+    {
+        "id": "2",
+        "name": "Bunny latte",
+        "description": "Coffee made with espresso and hot steamed milk, milkier than a cappuccino..",
+        "price": "4.50",
+        "image": ""
+    },
+    {
+        "id": "3",
+        "name": "Chai latte",
+        "description": "Made with spiced tea by brewing black tea in water and adding steamed milk",
+        "price": "5.00",
+        "image": ""
+    },
+    {
+        "id": "4",
+        "name": "Matcha latte",
+        "description": "A tea latte made with green matcha tea powder and steamed milk. ",
+        "price": "5.00",
+        "image": ""
+    },
+    {
+        "id": "5",
+        "name": "Macarons",
+        "description": "Feeling like something small to fix your sugar cravings? Why not have a macaron.",
+        "price": "3.50",
+        "image": ""
+    },
+    {
+        "id": "6",
+        "name": "Bunny hop Sandwich",
+        "description": "Made with freshly baked bread and fresh veggies, to provide you a balanced meal",
+        "price": "10.00",
+        "image": ""
+    },
+    {
+        "id": "7",
+        "name": "Carrot cake",
+        "description":"All bunnies favourite!",
+        "price": "6.50",
+        "image": ""
+    },
+    {
+        "id": "8",
+        "name": "Souffle",
+        "description":"You must try our delicious fluffy souffles, with fresh cream and berries on top ",
+        "price": "13.00",
+        "image": ""
+    },
+    {
+        "id": "9",
+        "name": "Crossiant",
+        "description": "Can't go wrong with a crossiant baked on the same day.",
+        "price": "7.00",
+        "image": ""
+    },
+    {
+        "id": "10",
+        "name":"Dairy substitution: Plant Based Milk",
+        "description": "Oatmilk, Almond milk, Soy milk.",
+        "price": " +0.60 (additional charge)",
+        "image": ""
+
+    }
+]
