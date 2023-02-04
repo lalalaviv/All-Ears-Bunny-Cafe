@@ -1,6 +1,6 @@
 import React from 'react';
 import Carousels from "../components/Home/Carousel"
-import '../components/Home/homes.css'
+import '../components/Home/home.css'
 import { Button, Card, Container}from 'react-bootstrap'
 
 
@@ -32,7 +32,7 @@ function Home() {
     <br/><br/>
     We are also available for private events and can host for 25-100 guests. For larger numbers we have an event planner to help you organize everything from choosing a theme and arranging decoration to customizing food and beverage packages.  Feel free to reach out to allearbunnycafe@gmail.com to inquire.
     <br/><br/>
-  <Button onClick={() => window.location = 'mailto:midnightcatcafe@gmail.com'} className="inquire">Inquire Now</Button>
+  <Button onClick={() => window.location = 'mailto:allearsbunnycafe@gmail.com'} className="inquire">Inquire Now</Button>
     </p></Card>
     </Container>
     </div>

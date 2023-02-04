@@ -1,6 +1,6 @@
 import React from 'react';
 import { useLocation } from 'react-router-dom';
-import Gif from "../assets/images/404.gif"
+import Gif from "../assets/images/404.png"
 import "../App.css"
 function NotFound() {
   let location = useLocation();

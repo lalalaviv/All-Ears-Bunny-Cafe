@@ -2,7 +2,7 @@ import React from "react";
 import EventCard from "../components/Event/EventCard";
 import { useQuery } from "@apollo/client";
 import { GET_EVENTS } from "../utils/queries";
-import defaultImage from "../assets/images/logo3.png";
+import defaultImage from "../assets/images/logo.png";
 import "../components/Event/event.css"
 
 function Event() {

@@ -1,10 +1,10 @@
 import React, { useState } from 'react';
 import { Form, Alert, Button } from 'react-bootstrap';
 import { useMutation } from '@apollo/client';
-import '../register/login.css';
+import '../Register/login.css';
 
 import Auth from '../../utils/auth';
-import { LOGIN } from '../../utils/mutations';
+import { LOGIN } from '../../utils/mutation';
 
 const LoginForm = () => {
   const [userLoginData, setUserLoginData] = useState({

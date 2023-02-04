@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { GET_EVENT } from '../utils/queries';
 import { useQuery, useMutation } from '@apollo/client';
-import { ADD_ME_TO_EVENT, REMOVE_ME_FROM_EVENT } from '../utils/mutations';
+import { ADD_ME_TO_EVENT, REMOVE_ME_FROM_EVENT } from '../utils/mutation';
 import { Button } from 'react-bootstrap';
 import auth from '../utils/auth';
 

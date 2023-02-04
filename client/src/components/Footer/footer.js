@@ -1,6 +1,6 @@
 import React from "react";
 import "../Footer/footer.css";
-import Logo from "../../assets/images/logo1.png";
+import Logo from "../../assets/images/logo.png";
 import { library } from "@fortawesome/fontawesome-svg-core";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
@@ -99,7 +99,7 @@ function Footer() {
             <div className="row align-items-center">
               <div className="col-lg-6 col-sm-7">
                 <p className="mb-0 f_400">
-                  © All Ears Bunny Cafe 2022 All rights reserved.
+                  © All Ears Bunny Cafe 2023 All rights reserved.
                 </p>
               </div>
               <div className="col-lg-6 col-sm-5 text-right">

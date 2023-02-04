@@ -1,9 +1,9 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { Navbar, Nav, Container, Modal, Tab } from 'react-bootstrap';
-import SignUpForm from '../register/SignupForm';
-import LoginForm from '../register/LoginForm';
-import '../nav/navbar-styles.css';
+import SignUpForm from '../Register/SignupForm';
+import LoginForm from '../Register/LoginForm';
+import '../Nav/navbar-styles.css';
 import Auth from '../../utils/auth';
 import Logo from '../../assets/images/logo.png';
 const AppNavbar = () => {
@@ -22,7 +22,7 @@ const AppNavbar = () => {
             style={{ marginRight: '2%' }}
           />{' '}
           <Navbar.Brand as={Link} to="/" className="navbrand">
-            Midnight Cat Cafe
+            All Ears Bunny Cafe
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
@@ -30,7 +30,7 @@ const AppNavbar = () => {
               Menu
             </Nav.Link>
             <Nav.Link as={Link} to="/shopping" className="navbrand">
-              Merch
+              Shop
             </Nav.Link>
             <Nav.Link as={Link} to="/events" className="navbrand">
               Events

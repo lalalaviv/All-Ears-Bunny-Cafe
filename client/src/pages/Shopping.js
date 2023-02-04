@@ -102,10 +102,10 @@ function Shopping() {
     cartCountTotal === 0 ? (
       <b style={{ color: '#5B4B8A', fontSize: '28px'}}>
         <div style={{backgroundColor:"white"}}>
-        <p >Get Your Midnight Cat Cafe Merch here!</p>
+        <p >Shop for some cuteness at All Ears Bunny Cafe!</p>
         <p>Cart is empty</p>
         <img
-          src="https://thumbs.gfycat.com/ReasonableConsiderateGoldeneye-max-1mb.gif"
+          src="https://user-images.githubusercontent.com/106384519/216769512-13b5073b-acbe-4f53-a9bd-929f6c522621.gif"
           alt="empty"
           height="70px"
         ></img>
@@ -267,7 +267,7 @@ function Shopping() {
                 <div>
                   <p>
                     <img
-                      src="https://media1.giphy.com/media/4PUkqN8QQsaFIkqi8a/giphy.gif?cid=790b761109561ad615e61cf0659c7078a6e77df7205b3c88&rid=giphy.gif&ct=s"
+                      src="https://user-images.githubusercontent.com/106384519/216769512-13b5073b-acbe-4f53-a9bd-929f6c522621.gif"
                       alt="succeed"
                       height="50px"
                     ></img>

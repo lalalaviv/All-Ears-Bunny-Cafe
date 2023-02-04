@@ -1,8 +1,8 @@
 import React, { useState } from "react";
 import { Container, Card, Row, Col, Button } from "react-bootstrap";
-import '../components/menu/menu.css'
+import '../components/Menu/menu.css'
 
-const menuItems = require("../components/menu/menu-items.json");
+const menuItems = require("../components/Menu/menu-items.json");
 
 const Menu = () => {
   const [show, setShow] = useState(false);

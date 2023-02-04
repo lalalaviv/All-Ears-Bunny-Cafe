@@ -1,8 +1,8 @@
 import React from "react";
 import StripeCheckout from "react-stripe-checkout";
-import logo from "../../assets/images/logo1.png";
+import logo from "../../assets/images/logo.png";
 import Swal from 'sweetalert2'
-import nyan from "../../assets/images/nyan.gif"
+import load from "../../assets/images/loading.gif"
 
 const StripeCheckoutButton = ({ price }) => {
   const priceForStripe = price * 100;
@@ -18,7 +18,7 @@ const StripeCheckoutButton = ({ price }) => {
             background: '#fff',
             backdrop: `
               rgba(0,0,123,0.4)
-              url(${nyan})
+              url(${load})
               left top
               no-repeat
             `
