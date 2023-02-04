@@ -1,7 +1,7 @@
 [
     {
       "id": 1,
-      "img": "",
+      "img": "https://user-images.githubusercontent.com/106384519/216765955-c5aa9797-05bf-424a-9e5b-8f4715a86558.jpg",
       "name":"Little dreamers bunny night light",
       "description": "A soft and safe night light for children and babies. Made of edible grade soft silicone, no odor or sharp edges, safe and non toxic for mom to use with more peace of mind, this nightlight will help your child or baby get a good night's sleep all night long and that means mom and dad get a good night's sleep too.",
       "price": "27.99",
@@ -11,7 +11,7 @@
     },
     {
       "id": 2,
-      "img": "",
+      "img": "https://user-images.githubusercontent.com/106384519/216765965-37b637cf-b874-4691-87e3-443b1381b488.jpeg",
       "name":"Space bunny nightstand",
       "description": "This Nightstand is more than just a place to put your phone, keys, and glasses. It's a fun and whimsical piece of art that will be the highlight of any room. ",
       "price": "395.00",
@@ -21,7 +21,7 @@
     },
     {
       "id": 3,
-      "img": "",
+      "img": "https://user-images.githubusercontent.com/106384519/216765973-9229db11-64d3-4e66-9b42-09812240bc20.png",
       "name":"Bunny plush toy",
       "description": "A bunny of the highest quality and very soft to cuddle, great for babies and children and will make a great baby shower gift.",
       "price": "59.95",
@@ -31,7 +31,7 @@
     },
     {
       
-      "img": "",
+      "img": "https://user-images.githubusercontent.com/106384519/216765961-8a3ea15a-0195-4104-808a-7f62d2b41f64.png",
       "name":"Bunny slippers",
       "description": "These cute slippers will keep your feet cosy and comfortable. They are an adorable addition to your wardrobe.",
       "price": "39.00",
@@ -41,7 +41,7 @@
     },
     {
       "id": 5,
-      "img": "",
+      "img": "https://user-images.githubusercontent.com/106384519/216765987-12ab1707-81a1-49db-bd1d-79eefeecdf11.png",
       "name":"Bunny prints (Set of 2)",
       "description": "Lovely bunny paintings to decorate the room with cuteness.",
       "price": "65.00",
@@ -51,7 +51,7 @@
     },
     {
       "id": 6,
-      "img": "",
+      "img": "https://user-images.githubusercontent.com/106384519/216765994-3dca0a80-b64d-47c2-8240-fa40212377ca.png",
       "name":"Cotton Bunny comforter",
       "description": "A cute bunny shaped comforter made with soft and breathable muslin cotton. Perfect to keep your little one calm, cozy and comfortable.",
       "price": "29.95",
@@ -61,7 +61,7 @@
     },
     {
       "id": 7,
-      "img": "",
+      "img": "https://user-images.githubusercontent.com/106384519/216766004-905b1a00-1096-4e4d-999a-a1c7b903a458.png",
       "name":"Bunny hoop earring",
       "description": "Designed with rabbits which adds cuteness to this elegant pair of earrings. Wearing them will add a touch of personality to any outfit.",
       "price": "79.95",
@@ -71,7 +71,7 @@
     },
     {
       "id": 8,
-      "img": "",
+      "img": "https://user-images.githubusercontent.com/106384519/216766008-f980208f-50b5-418f-b9bf-b60e9db31c53.png",
       "name":"Gold plated bunny necklace",
       "description": "This beautiful 18ct gold plated sterling silver bunny charm necklace is on trend and very stylish for this rabbit year.",
       "price": "119.00",
@@ -81,7 +81,7 @@
     },
     {
       "id": 9,
-      "img": "",
+      "img": "https://user-images.githubusercontent.com/106384519/216766021-e0a2ab8f-c0bd-471c-8b10-a4d2283d044c.png",
       "name":"Bunny candle holder",
       "description": "A pastel green bunny candle holder that comes with a candle.",
       "price": "8.95",
@@ -91,7 +91,7 @@
     },
     {
       "id": 10,
-      "img": "",
+      "img": "https://user-images.githubusercontent.com/106384519/216766034-a74447d6-2017-4124-ba4c-77148897936b.png",
       "name":"Bunny print mug",
       "description": "Bunny heart hug mug with a rounded shape making gripping easier.",
       "price": "12.99",
@@ -101,7 +101,7 @@
     },
     {
       "id": 11,
-      "img": "",
+      "img": "https://user-images.githubusercontent.com/106384519/216766042-1496d223-ae48-4a34-ba47-457ee155f584.png",
       "name":"Bunny tea towel",
       "description": "For the bunny lovers who also would like to decorate their kitchen, these eco-friendly towels will spruce up any kitchen.",
       "price": "27.00",
@@ -111,8 +111,8 @@
     },
     {
       "id": 12,
-      "img": "",
-      "name":"Bunny chocolate",
+      "img": "https://user-images.githubusercontent.com/106384519/216766049-ab24e955-bc8d-4f60-8f27-5ac36429169e.png",
+      "name":"Bunny and coffee beans chocolate",
       "description": "The chocolate comes in white chocolate, milk chocolate, dark chocolate or combination if preferred.",
       "price": "16.00",
       "count": 0,
