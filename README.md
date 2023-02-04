@@ -57,23 +57,22 @@ SO THAT I can attend related events and purchase bunny related merchandise
 ```md
 GIVEN a bunny cafe website
 WHEN I load the website 
-THEN I am presented with images related to the cafe
+THEN I am presented with images of events related to the cafe
 WHEN I click on the Menu tab
 THEN I am presented with a list of food and drinks that the cafe sells 
-WHEN I click on the Merchandise tab
+WHEN I click on the Shop tab
 THEN I am presented with bunny related products I can purchase 
 WHEN I click add to cart
 THEN the product is added to my shopping cart and awaiting for checkout
 WHEN I click on the Events tab 
 THEN the events that are linked to the cafe will be displayed
-
 WHEN I click on the Login/Signup tab
 THEN a modal appears on the screen with a toggle between the option to log in or sign up 
 WHEN the toggle is set to Signup
-THEN I am presented with three inputs for a username, an email address, and a password, and a signup button
+THEN I am presented with three inputs for a username, an email address, and a password, and signup button
 WHEN the toggle is set to Login
 THEN I am presented with two inputs for an email address and a password and login button
-WHEN I enter a valid email address and create a password and click on the signup button
+WHEN I enter a valid username, email address and create a password and click on the signup button
 THEN my user account is created and I am logged in to the site
 WHEN I enter my account’s email address and password and click on the login button
 THEN I the modal closes and I am logged in to the site
